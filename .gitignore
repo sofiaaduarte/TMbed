@@ -1,3 +1,7 @@
+# New files to ignore
+tmbed/models/t5/*
+*.pred
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
